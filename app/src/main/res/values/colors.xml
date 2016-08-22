@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff515662</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FFffffff</color>
+    <color name="album_color">#98a1e3</color>
+</resources>

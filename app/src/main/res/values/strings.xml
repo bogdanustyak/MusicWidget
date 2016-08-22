@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MusicWidget</string>
+    <string name="no_songs">There are no songs in your library</string>
+    <string name="permissions_granted">Thanks, now you can start using music widget!</string>
+    <string name="request_permissions_title">Android Permissions</string>
+    <string name="request_permissions_message">Please grant permissions for correct work of this widget</string>
+    <string name="songs_loading_error">Oops, error.. Have you granted all permissions?</string>
+    <string name="no_album">No Album</string>
+    <string name="no_artist">No Artist</string>
+    <string name="no_title">No Title</string>
+    <string name="_04_55_minutes">04:55 mins</string>
+    <string name="tbd">To be done!</string>
+    <string name="empty_durarion">00:00 mins</string>
+    <string name="duration">%s mins</string>
+</resources>
